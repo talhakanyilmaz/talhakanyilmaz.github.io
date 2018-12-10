@@ -1,0 +1,27 @@
+---
+title: LibreOffice Türkçe Dil Araçları Eklentisi
+layout: post
+date: 2018-12-10 05:48
+image: https://raw.githubusercontent.com/COMU/zemberek-extension/master/site/images/example.gif
+headerImage: true
+tag:
+ -zemberek
+ -libreoffice
+category: blog
+author: talhakanyilmaz
+description: LibreOffice Türkçe Dil Araçları Zemberek Eklentisi
+---
+
+İlk blog yazıma, katkıda bulunma fırsatı bulduğum için çok mutlu olduğum bir projeden bahsederek bahsederek başlamak istedim.
+[Zemberek](https://github.com/ahmetaa/zemberek-nlp) projesi, [Ahmet A. Akın](https://github.com/ahmetaa) ve [Mehmet D. Akın](https://github.com/mdakin) tarafından 10 yılı aşkın süredir geliştirilen bir Türkçe doğal dil işleme kütüphanesi.
+Aktif olarak geliştirildiği zamanlarda [Pardus](https://www.pardus.org.tr/) ve LibreOffice üzerinde Türkçe yazım denetimi aracı olarak çok yaygın kullanılmışsa da, 2013 yılında
+projenin geliştirilmesine ara verilmesiyle verilen destekler de haliyle azalmış.
+
+Projenin geçen sene tekrar geliştirilmeye başlamasıyla bu sene Hocamız [Öğr.Gör.Dr. Necdet Yücel](https://www.nyucel.com)'in destekleriyle [Okan Özdemir](https://okanozdemir.me) ve bana da projenin LibreOffice yazım denetimi eklentisi
+tarafına katkıda bulunma fırsatımız oldu ve yaklaşık 1 ay önce, yeni geliştirilen LibreOffice eklentisinin ilk sürümünü yayınladık.
+Projeyi Github üzerinde MPLv2 lisansı altında bir özgür yazılım projesi olarak geliştiriyoruz. Aşağıdaki linkten projenin Github dizinine ulaşabilirsiniz.
+
+<div class="github-card" data-github="COMU/zemberek-extension" data-width="400" data-height="150" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
+Henüz benim için  çok yeni bir iş olsa da bu projenin bana şimdiden çok şey kattığını ve ilerleyen zamanda da yeni şeyler öğrenmek ve yeni deneyimler kazanmak açısından faydalı olmaya devam edeceğini düşünüyorum.
