@@ -9,5 +9,5 @@ hidden: true
 description: "LibreOffice için Türkçe yazım denetimi eklentisi"
 category: project
 author: talhakanyilmaz
-externalLink: "https://github.com/COMU/zemberek-extension"
+externalLink: true, "https://github.com/COMU/zemberek-extension"
 ---
