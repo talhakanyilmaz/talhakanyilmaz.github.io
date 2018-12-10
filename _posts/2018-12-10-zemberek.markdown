@@ -12,7 +12,7 @@ author: talhakanyilmaz
 description: LibreOffice Türkçe Dil Araçları Zemberek Eklentisi
 ---
 
-İlk blog yazıma, katkıda bulunma fırsatı bulduğum için çok mutlu olduğum bir projeden bahsederek bahsederek başlamak istedim.
+İlk blog yazıma, katkıda bulunma fırsatı bulduğum için çok mutlu olduğum bir projeden bahsederek başlamak istedim.
 [Zemberek](https://github.com/ahmetaa/zemberek-nlp) projesi, [Ahmet A. Akın](https://github.com/ahmetaa) ve [Mehmet D. Akın](https://github.com/mdakin) tarafından 10 yılı aşkın süredir geliştirilen bir Türkçe doğal dil işleme kütüphanesi.
 Aktif olarak geliştirildiği zamanlarda [Pardus](https://www.pardus.org.tr/) ve LibreOffice üzerinde Türkçe yazım denetimi aracı olarak çok yaygın kullanılmışsa da, 2013 yılında
 projenin geliştirilmesine ara verilmesiyle verilen destekler de haliyle azalmış.
