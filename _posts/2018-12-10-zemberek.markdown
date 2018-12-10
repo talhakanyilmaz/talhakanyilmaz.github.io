@@ -10,6 +10,7 @@ tag:
 category: blog
 author: talhakanyilmaz
 description: LibreOffice Türkçe Dil Araçları Zemberek Eklentisi
+comment: true
 ---
 
 İlk blog yazıma, katkıda bulunma fırsatı bulduğum için çok mutlu olduğum bir projeden bahsederek başlamak istedim.
