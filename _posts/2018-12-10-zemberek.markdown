@@ -18,7 +18,7 @@ Aktif olarak geliştirildiği zamanlarda [Pardus](https://www.pardus.org.tr/) ve
 projenin geliştirilmesine ara verilmesiyle verilen destekler de haliyle azalmış.
 
 Projenin geçen sene tekrar geliştirilmeye başlamasıyla bu sene Hocamız [Öğr.Gör.Dr. Necdet Yücel](https://www.nyucel.com)'in destekleriyle [Okan Özdemir](https://okanozdemir.me) ve bana da projenin LibreOffice yazım denetimi eklentisi
-tarafına katkıda bulunma fırsatımız oldu ve yaklaşık 1 ay önce, yeni geliştirilen LibreOffice eklentisinin ilk sürümünü yayınladık.
+tarafına katkıda bulunma fırsatı doğdu ve yaklaşık 1 ay önce, yeni geliştirilen LibreOffice eklentisinin ilk sürümünü yayınladık.
 Projeyi Github üzerinde MPLv2 lisansı altında bir özgür yazılım projesi olarak geliştiriyoruz. Aşağıdaki linkten projenin Github dizinine ulaşabilirsiniz.
 
 <div class="github-card" data-github="COMU/zemberek-extension" data-width="400" data-height="150" data-theme="default"></div>
